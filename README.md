@@ -6,7 +6,9 @@
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge)
 ![Arquitectura](https://img.shields.io/badge/Arquitectura-Medallion%20(Bronze%2FSilver%2FGold)-success?style=for-the-badge)
 
----
+---TODOS LOS DATOS DE ESTE PROYECTO SON FICTICIOS, HAN SIDO MODIFICADOS CON RESPECTOA LOS DATOS REALES POR PROTECCIÓN DE DATOS SENSIBLES, NINGUNA CIFRA ES CORRECTA
+
+
 
 ## 🎯 1. El Contexto Real y el Reto de Negocio
 
